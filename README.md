@@ -1,1 +1,1 @@
-# application-of-logreg-on-diabetes-dataset
+# application-of-logistic regression -on-diabetes-dataset
